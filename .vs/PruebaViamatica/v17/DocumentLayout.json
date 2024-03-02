@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45C7946-1EFF-4BB5-8B9D-54585CA643F3}|PruebaViamatica.Infrastructure\\PruebaViamatica.Infrastructure.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45C7946-1EFF-4BB5-8B9D-54585CA643F3}|PruebaViamatica.Infrastructure\\PruebaViamatica.Infrastructure.csproj|solutionrelative:pruebaviamatica.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DA7937-B946-450E-ACF5-38B34B961B64}|PruebaViamatica.Application\\PruebaViamatica.Application.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DA7937-B946-450E-ACF5-38B34B961B64}|PruebaViamatica.Application\\PruebaViamatica.Application.csproj|solutionrelative:pruebaviamatica.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "PruebaViamatica.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:02:29.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Application\\Class1.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Application\\Class1.cs",
+              "RelativeToolTip": "PruebaViamatica.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T16:01:53.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Class1.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Class1.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:52:20.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
