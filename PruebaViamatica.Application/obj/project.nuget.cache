@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1LxgxJvhsHads/pDVnri/pBCoGkDLyAli7TQ8krYgkHkTJctghZjptunTwBDC0HL7vGtU8UR9LWzmmBmDNV+SA==",
+  "dgSpecHash": "Dgf6Co8p3c1h/6th9mweODN7sSI9qlm6QQf+eknMXTVvonT1bAe32v4OpdkdhBnbnnhVt791lpYv6EpLFfpntQ==",
   "success": true,
   "projectFilePath": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Application\\PruebaViamatica.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kriz_\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\kriz_\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\kriz_\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

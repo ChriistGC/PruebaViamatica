@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E45C7946-1EFF-4BB5-8B9D-54585CA643F3}|PruebaViamatica.Infrastructure\\PruebaViamatica.Infrastructure.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45C7946-1EFF-4BB5-8B9D-54585CA643F3}|PruebaViamatica.Infrastructure\\PruebaViamatica.Infrastructure.csproj|solutionrelative:pruebaviamatica.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8DA7937-B946-450E-ACF5-38B34B961B64}|PruebaViamatica.Application\\PruebaViamatica.Application.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8DA7937-B946-450E-ACF5-38B34B961B64}|PruebaViamatica.Application\\PruebaViamatica.Application.csproj|solutionrelative:pruebaviamatica.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\persons\\events\\personcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\persons\\events\\personcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\clients\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\users\\datasession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\users\\datasession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|d:\\repositorios\\pruebaviamatica\\pruebaviamatica\\pruebaviamatica.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C4162E-A0AA-4046-B02E-5232DBA98B13}|PruebaViamatica.Domain\\PruebaViamatica.Domain.csproj|solutionrelative:pruebaviamatica.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "PruebaViamatica.Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "PruebaViamatica.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UserCreatedDomainEvent.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T16:02:29.574Z",
+              "WhenOpened": "2024-03-02T18:01:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Clients\\Client.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Clients\\Client.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Clients\\Client.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Clients\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:55:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataSession.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Users\\DataSession.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Users\\DataSession.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Users\\DataSession.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Users\\DataSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:53:40.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "PruebaViamatica.Application\\Class1.cs",
-              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Application\\Class1.cs",
-              "RelativeToolTip": "PruebaViamatica.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PersonCreatedDomainEvent.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Persons\\Events\\PersonCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Persons\\Events\\PersonCreatedDomainEvent.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Persons\\Events\\PersonCreatedDomainEvent.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Persons\\Events\\PersonCreatedDomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T16:01:53.052Z"
+              "WhenOpened": "2024-03-02T17:49:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:41:39.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Persons\\Person.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Persons\\Person.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Persons\\Person.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Persons\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T17:39:40.468Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Class1.cs",
-              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Class1.cs",
-              "RelativeToolTip": "PruebaViamatica.Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "PruebaViamatica.Domain\\Users\\User.cs",
+              "ToolTip": "D:\\Repositorios\\PruebaViamatica\\PruebaViamatica\\PruebaViamatica.Domain\\Users\\User.cs",
+              "RelativeToolTip": "PruebaViamatica.Domain\\Users\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T15:52:20.983Z"
+              "WhenOpened": "2024-03-02T17:39:18.957Z",
+              "EditorCaption": ""
             }
           ]
         }
